@@ -1,8 +1,8 @@
 class Harbor < Formula
   desc "A lightweight macOS local dev tool that runs web projects without VMs or containers. It auto-sets local domains and trusted HTTPS, and can proxy services to custom URLs."
   homepage "https://github.com/nforst/harbor"
-  url "https://github.com/nforst/harbor/archive/refs/tags/v1.0.6.tar.gz"
-  sha256 "6f6869bb454455499ed2022dcd90ec68b26a81c34d6ae60ae302068815b95061"
+  url "https://github.com/nforst/harbor/archive/refs/tags/v1.0.7.tar.gz"
+  sha256 "b9435c3c26f13d57696c9eade2f0ac2ac22bb4f807b2a34a52e062c143144335"
   license "ISC"
 
   depends_on "node"
